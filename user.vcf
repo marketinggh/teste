@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Fabio;Silva;;;
+N:Karina;Stoque;;;
 FN: Fabio  Silva 
 ORG:GH Wesco;
-TITLE:Pre-vendas\nComercial
-EMAIL;type=INTERNET;type=WORK;type=pref:fabio.silva@ghwesco.com.br
-TEL;type=WORK;type=VOICE:11 95695 1976
+TITLE:Gerente de Vendas\nComercial
+EMAIL;type=INTERNET;type=WORK;type=pref:karina.stoque@ghwesco.com.br
+TEL;type=WORK;type=VOICE:11 99235 7193
 item1.ADR;type=WORK;type=pref:;;Rua Machado Bitencourt\, 361 \, 4 andar;;;Vila da Saúde;São Paulo
 item1.X-ABADR:sg
 item2.URL;type=pref:https://ghwesco.com.br/
