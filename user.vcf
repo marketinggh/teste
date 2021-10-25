@@ -4,10 +4,10 @@ PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Fabio;Silva;;;
 FN: Fabio  Silva 
 ORG:GH Wesco;
-TITLE:Pré-vendas\nComercial
+TITLE:Pre-vendas\nComercial
 EMAIL;type=INTERNET;type=WORK;type=pref:fabio.silva@ghwesco.com.br
-TEL;type=WORK;type=VOICE:+55 11 95695 1976
-item1.ADR;type=WORK;type=pref:;;Rua da Alfândega\, 81 \, 3 andar;;;Centro;Rio de Janeiro
+TEL;type=WORK;type=VOICE:11 95695 1976
+item1.ADR;type=WORK;type=pref:;;Rua Machado Bitencourt\, 361 \, 4 andar;;;Vila da Saúde;São Paulo
 item1.X-ABADR:sg
 item2.URL;type=pref:https://ghwesco.com.br/
 item2.X-ABLabel:_$!<HomePage>!$_
